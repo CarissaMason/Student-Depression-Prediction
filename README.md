@@ -1,4 +1,5 @@
 # Student Depression Prediction
+[Student Depression Predictor App on Streamlit](https://your-app-name.streamlit.app)
 
 This project uses machine learning (logistic regression) to predict the likelihood of depression among students based on academic, personal, and lifestyle factors.
 
